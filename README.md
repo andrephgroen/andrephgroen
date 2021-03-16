@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrephgroen
-- 👀 I’m interested in Java coding (duh..)
+- 👀 I’m interested in Java coding
 - 🌱 I’m currently learning OCP-JP8 and self educating differences with Java11
 - 📫 You can reach me here at github.
 - 💞️ I’m looking to collaborate on <nothing yet>
